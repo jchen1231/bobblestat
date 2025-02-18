@@ -1,0 +1,31 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		// cmake (for ROS)
+        "twxs.cmake",
+		// ROS
+        "ms-iot.vscode-ros",
+		// Python
+		"ms-python.python",
+		// autopep8
+		// "himanoa.Python-autopep8",
+		// pylint
+		// "ms-python.vscode-pylint",
+		// Python Docstring Generator
+		"njpwerner.autodocstring",
+		// Python Indent
+		"kevinrose.vsc-python-indent",
+		// WakaTime
+		// "wakatime.vscode-wakatime",
+		// Bookmarks
+		"alefragnani.bookmarks",
+		// YAML
+		"redhat.vscode-yaml",
+		// Ruff
+		"charliermarsh.ruff"
+
+	]
+}
